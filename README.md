@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayeemaRahman
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning POWERBI fod ata analytics
+- 🌱 I’m currently learning POWERBI for data analytics
 - 💞️ I’m looking to collaborate on the use of GitHub for data analytics
 - 📫 How to reach me Just ping me :)
 
